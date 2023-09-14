@@ -103,3 +103,4 @@ for i in range(1,10):
     beforeACC = acc
     accli.append(acc)
 plt.plot(accli)
+#%%
